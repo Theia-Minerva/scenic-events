@@ -1,0 +1,4 @@
+module scenic_events [system] {
+  header "se.h"
+  export *
+}
